@@ -51,11 +51,20 @@ Drop the file into your prompt, attach it to a Cursor rule, paste it into a Chat
 
 ## Frameworks
 
-| Framework | Skill folder    | Bundled guide              |
-| --------- | --------------- | -------------------------- |
-| Vue 3     | `svar-vue/`     | `guides/svar-vue-all.md`    |
-| Svelte 5  | `svar-svelte/`  | `guides/svar-svelte-all.md` |
-| React     | `svar-react/`   | `guides/svar-react-all.md`  |
+| React | Svelte | Vue |
+| --- | --- | --- |
+| [all components](guides/svar-react-all.md) (279kb; ~77k tokens) | [all components](guides/svar-svelte-all.md) (263kb; ~73k tokens) | [all components](guides/svar-vue-all.md) (275kb; ~76k tokens) |
+| [comments](guides/svar-react-comments.md) (20kb; ~5.6k tokens) | [comments](guides/svar-svelte-comments.md) (19kb; ~5.4k tokens) | [comments](guides/svar-vue-comments.md) (20kb; ~5.6k tokens) |
+| [core](guides/svar-react-core.md) (107kb; ~30k tokens) | [core](guides/svar-svelte-core.md) (101kb; ~28k tokens) | [core](guides/svar-vue-core.md) (105kb; ~29k tokens) |
+| [editor](guides/svar-react-editor.md) (28kb; ~7.6k tokens) | [editor](guides/svar-svelte-editor.md) (26kb; ~7.3k tokens) | [editor](guides/svar-vue-editor.md) (27kb; ~7.5k tokens) |
+| [filemanager](guides/svar-react-filemanager.md) (33kb; ~9k tokens) | [filemanager](guides/svar-svelte-filemanager.md) (32kb; ~8.7k tokens) | [filemanager](guides/svar-vue-filemanager.md) (32kb; ~8.9k tokens) |
+| [filter](guides/svar-react-filter.md) (49kb; ~13k tokens) | [filter](guides/svar-svelte-filter.md) (47kb; ~13k tokens) | [filter](guides/svar-vue-filter.md) (49kb; ~13k tokens) |
+| [gantt](guides/svar-react-gantt.md) (38kb; ~10k tokens) | [gantt](guides/svar-svelte-gantt.md) (36kb; ~9.9k tokens) | [gantt](guides/svar-vue-gantt.md) (37kb; ~10k tokens) |
+| [grid](guides/svar-react-grid.md) (37kb; ~10k tokens) | [grid](guides/svar-svelte-grid.md) (35kb; ~9.8k tokens) | [grid](guides/svar-vue-grid.md) (37kb; ~10k tokens) |
+| [layout](guides/svar-react-layout.md) (19kb; ~5.3k tokens) | [layout](guides/svar-svelte-layout.md) (18kb; ~5k tokens) | [layout](guides/svar-vue-layout.md) (19kb; ~5.2k tokens) |
+| [menu](guides/svar-react-menu.md) (21kb; ~5.9k tokens) | [menu](guides/svar-svelte-menu.md) (20kb; ~5.6k tokens) | [menu](guides/svar-vue-menu.md) (21kb; ~5.8k tokens) |
+| [tasklist](guides/svar-react-tasklist.md) (16kb; ~4.4k tokens) | [tasklist](guides/svar-svelte-tasklist.md) (15kb; ~4.2k tokens) | [tasklist](guides/svar-vue-tasklist.md) (16kb; ~4.3k tokens) |
+| [toolbar](guides/svar-react-toolbar.md) (21kb; ~5.8k tokens) | [toolbar](guides/svar-svelte-toolbar.md) (20kb; ~5.6k tokens) | [toolbar](guides/svar-vue-toolbar.md) (21kb; ~5.8k tokens) |
 
 ## Links
 
