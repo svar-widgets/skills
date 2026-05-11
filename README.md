@@ -1,4 +1,4 @@
-# SVAR Skills
+# SVAR UI Skills
 
 Skills and LLM context packs for [SVAR UI components](https://svar.dev) — Vue, Svelte, and React.
 
