@@ -1,6 +1,6 @@
 # SVAR Skills
 
-Skills and LLM context packs for [SVAR](https://svar.dev) UI components — Vue, Svelte, and React.
+Skills and LLM context packs for [SVAR UI components](https://svar.dev) — Vue, Svelte, and React.
 
 This repo gives an AI agent (Claude Code, Cursor, or any LLM that can read local files) the knowledge gists that it needs to write correct SVAR widget code on the first try.
 
